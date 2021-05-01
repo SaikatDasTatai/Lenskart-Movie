@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "46D77E5E-93EC-406F-9495-88AFFCDA983D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "21B3E799-7C2E-4170-ABF8-2478BADD190B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lenskart Movies/MovieListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "21B3E799-7C2E-4170-ABF8-2478BADD190B - f9459eb7b092d5d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lenskart_Movies.MovieListViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Lenskart Movies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saikat/Desktop/Lenskart%20Movies/Lenskart%20Movies/MovieListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "111">
+               </Location>
+               <Location
+                  uuid = "21B3E799-7C2E-4170-ABF8-2478BADD190B - d606bedf4ba82cb2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Optional&lt;Swift.Array&lt;Lenskart_Movies.Movie&gt;&gt;, Swift.Error&gt;) -&gt; () in Lenskart_Movies.MovieListViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Lenskart Movies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saikat/Desktop/Lenskart%20Movies/Lenskart%20Movies/MovieListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "166">
+               </Location>
+               <Location
+                  uuid = "21B3E799-7C2E-4170-ABF8-2478BADD190B - 47213c7c33e43747"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;Swift.Optional&lt;Swift.Array&lt;Lenskart_Movies.Movie&gt;&gt;, Swift.Error&gt;) -&gt; () in Lenskart_Movies.MovieListViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Lenskart Movies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saikat/Desktop/Lenskart%20Movies/Lenskart%20Movies/MovieListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "65558ACF-1E61-4735-A469-17A76A570889"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lenskart Movies/MovieListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "fetchMovieListsData(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "65558ACF-1E61-4735-A469-17A76A570889 - d783455d0291ff5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lenskart_Movies.MovieListViewModel.fetchMovieListsData(completion: (Swift.Result&lt;Swift.Optional&lt;Swift.Array&lt;Lenskart_Movies.Movie&gt;&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Lenskart Movies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saikat/Desktop/Lenskart%20Movies/Lenskart%20Movies/MovieListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "65558ACF-1E61-4735-A469-17A76A570889 - decd76e278e8c802"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Optional&lt;Swift.Array&lt;Lenskart_Movies.Movie&gt;&gt;, Swift.Error&gt;) -&gt; () in Lenskart_Movies.MovieListViewModel.fetchMovieListsData(completion: (Swift.Result&lt;Swift.Optional&lt;Swift.Array&lt;Lenskart_Movies.Movie&gt;&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Lenskart Movies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saikat/Desktop/Lenskart%20Movies/Lenskart%20Movies/MovieListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "218">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC0F7D4A-6B69-42CD-B32C-42A6B2510588"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lenskart Movies/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "fetchMovieList(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5D5DD29-C862-4E9B-B051-50115C0135C2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lenskart Movies/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "fetchArayData(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C1795D9-42A8-475F-82CF-0F29EF7EE18B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lenskart Movies/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "fetchArayData(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F124D77-8857-4C74-8200-5564DFB195E5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lenskart Movies/MovieTableVIewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "setImage(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6F124D77-8857-4C74-8200-5564DFB195E5 - 43985b3b0bea76fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lenskart_Movies.MovieTableViewCell.(setImage in _D4F3B677828909ACBEF39C869891D82C)(url: Swift.String) -&gt; ()"
+                  moduleName = "Lenskart Movies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saikat/Desktop/Lenskart%20Movies/Lenskart%20Movies/MovieTableVIewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1004">
+               </Location>
+               <Location
+                  uuid = "6F124D77-8857-4C74-8200-5564DFB195E5 - eaf16e78f1b6c19a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Lenskart_Movies.MovieTableViewCell.(setImage in _D4F3B677828909ACBEF39C869891D82C)(url: Swift.String) -&gt; ()"
+                  moduleName = "Lenskart Movies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saikat/Desktop/Lenskart%20Movies/Lenskart%20Movies/MovieTableVIewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "333">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
